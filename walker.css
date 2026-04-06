@@ -1,13 +1,13 @@
 @define-color selected-text #fbcbae;
 @define-color text #ccd3fe;
 @define-color base #05080a;
-@define-color border #4b4c4d;
+@define-color border #f8eae7;
 @define-color foreground #dce2f7;
 @define-color background #05080a;
 
 window .box-wrapper {
     background: alpha(@base, 1);           /* dark transparency */
-    border: 1px solid alpha(@border, 1);    /* visible border */
+    border: 1px solid alpha(@border, 0.55);    /* visible border */
     border-radius: 10px;
     padding: 4px;
     margin: 0;
