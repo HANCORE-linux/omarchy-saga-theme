@@ -1,5 +1,5 @@
 # SAGA
-SAGA color scheme
+SAGA color scheme - Omarchy theme.
 
 # Installation
 
