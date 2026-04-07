@@ -1,93 +1,94 @@
-# Main background, empty for terminal default, need to be empty if you want transparent background
+# SAGA btop theme - Consistent with Alacritty, Neovim, Discord & Hyprland
+# Main background (keep empty or set to your terminal bg if you want transparency)
 theme[main_bg]="#05080a"
 
 # Main text color
-theme[main_fg]="#dce2f7"
+theme[main_fg]="#ffe1e1"
 
 # Title color for boxes
-theme[title]="#dce2f7"
+theme[title]="#ffe1e1"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#c9fff7"
+theme[hi_fg]="#b2fff3"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#05080a"
+theme[selected_bg]="#0a0d0f"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#c9fff7"
+theme[selected_fg]="#b2fff3"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#36393b"
 
-# Color of text appearing on top of graphs, i.e uptime and current network graph scaling
-theme[graph_text]="#e1e6f8"
+# Color of text appearing on top of graphs (uptime, network scaling, etc.)
+theme[graph_text]="#f3ceff"
 
 # Background color of the percentage meters
-theme[meter_bg]="#232525"
+theme[meter_bg]="#141719"
 
-# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#e1e6f8"
+# Misc colors for processes box (mini cpu graphs, details, status text)
+theme[proc_misc]="#f3ceff"
 
 # CPU, Memory, Network, Proc box outline colors
-theme[cpu_box]="#dcc3f9"
-theme[mem_box]="#f7ddff"
-theme[net_box]="#ffd4e9"
-theme[proc_box]="#c9fff7"
+theme[cpu_box]="#b2fff3"     # Celeste
+theme[mem_box]="#dfbaff"     # Mauve
+theme[net_box]="#ff9fbc"     # Pastel Magenta
+theme[proc_box]="#b2fff3"    # Celeste
 
 # Box divider line and small boxes line color
-theme[div_line]="#f8eae7"
+theme[div_line]="#141719"
 
-# Temperature graph color (Green -> Yellow -> Red)
-theme[temp_start]="#f7ddff"
-theme[temp_mid]="#fbebc8"
-theme[temp_end]="#ffd4e9"
+# Temperature graph color (Soft pastel gradient)
+theme[temp_start]="#baf7b5"  # Menthol
+theme[temp_mid]="#fff6c3"    # Blond
+theme[temp_end]="#ff9fbc"    # Pastel Magenta
 
-# CPU graph colors (Teal -> Blue -> Purple)
-theme[cpu_start]="#c5edc1"
-theme[cpu_mid]="#c9fff7"
-theme[cpu_end]="#dcc3f9"
+# CPU graph colors (Menthol → Celeste → Mauve)
+theme[cpu_start]="#baf7b5"
+theme[cpu_mid]="#b2fff3"
+theme[cpu_end]="#dfbaff"
 
 # Mem/Disk free meter
-theme[free_start]="#dcc3f9"
-theme[free_mid]="#c9fff7"
-theme[free_end]="#c5edc1"
+theme[free_start]="#dfbaff"
+theme[free_mid]="#b2fff3"
+theme[free_end]="#baf7b5"
 
 # Mem/Disk cached meter
-theme[cached_start]="#c9fff7"
-theme[cached_mid]="#c5edc1"
-theme[cached_end]="#dcc3f9"
+theme[cached_start]="#b2fff3"
+theme[cached_mid]="#baf7b5"
+theme[cached_end]="#dfbaff"
 
 # Mem/Disk available meter
-theme[available_start]="#fbebc8"
-theme[available_mid]="#ffd4e9"
-theme[available_end]="#ffd4e9"
+theme[available_start]="#fff6c3"
+theme[available_mid]="#ffc79b"
+theme[available_end]="#ffc79b"
 
-# Mem/Disk used meter (Green -> Teal -> Blue)
-theme[used_start]="#f7ddff"
-theme[used_mid]="#c5edc1"
-theme[used_end]="#c9fff7"
+# Mem/Disk used meter (Menthol → Celeste → Mauve)
+theme[used_start]="#baf7b5"
+theme[used_mid]="#b2fff3"
+theme[used_end]="#dfbaff"
 
 # Download graph colors
-theme[download_start]="#fbebc8"
-theme[download_mid]="#ffd4e9"
-theme[download_end]="#ffd4e9"
+theme[download_start]="#fff6c3"
+theme[download_mid]="#ffc79b"
+theme[download_end]="#ffc79b"
 
-# Upload graph colors (Green -> Teal -> Blue)
-theme[upload_start]="#f7ddff"
-theme[upload_mid]="#c5edc1"
-theme[upload_end]="#c9fff7"
+# Upload graph colors
+theme[upload_start]="#baf7b5"
+theme[upload_mid]="#b2fff3"
+theme[upload_end]="#dfbaff"
 
 # Process box color gradient for threads, mem and cpu usage
-theme[process_start]="#c5edc1"
-theme[process_mid]="#c9fff7"
-theme[process_end]="#dcc3f9"
+theme[process_start]="#baf7b5"
+theme[process_mid]="#b2fff3"
+theme[process_end]="#dfbaff"
 
-# Graph gradient colors (spectrum shades from background to foreground)
+# Graph gradient colors (dark to soft pastel)
 theme[gradient_color_0]="#05080a"
-theme[gradient_color_1]="#1e2123"
-theme[gradient_color_2]="#05080a"
-theme[gradient_color_3]="#141f27"
-theme[gradient_color_4]="#a5aab9"
-theme[gradient_color_5]="#dce2f7"
-theme[gradient_color_6]="#e1e6f8"
-theme[gradient_color_7]="#e5e9f9"
+theme[gradient_color_1]="#0a0d0f"
+theme[gradient_color_2]="#141719"
+theme[gradient_color_3]="#1e2123"
+theme[gradient_color_4]="#b2fff3"
+theme[gradient_color_5]="#ffe1e1"
+theme[gradient_color_6]="#f3ceff"
+theme[gradient_color_7]="#fff6ff"
