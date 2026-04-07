@@ -7,7 +7,7 @@
 
 window .box-wrapper {
     background: alpha(@base, 1);           /* dark transparency */
-    border: 0.5px solid alpha(@border, 0.75);    /* visible border */
+    border: 0.5px solid alpha(@border, 1);    /* visible border */
     border-radius: 14px;
     padding: 4px;
     margin: 0;
