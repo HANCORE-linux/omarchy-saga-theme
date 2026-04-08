@@ -9,9 +9,9 @@ To install this theme, simply use the omarchy-theme-install command:
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-saga-theme.git
 ```
 
-<img width="2560" height="1440" alt="screenshot-2026-04-08_00-32-57" src="https://github.com/user-attachments/assets/20b9e9ee-155b-45fd-b94f-a746a73cb14c" />
+<img width="2560" height="1440" alt="screenshot-2026-04-08_15-48-13" src="https://github.com/user-attachments/assets/7cb05e85-ee98-4bc9-bb00-3a7c5fb9c13f" />
+<img width="2560" height="1440" alt="screenshot-2026-04-08_15-48-27" src="https://github.com/user-attachments/assets/5be9e57c-51cc-4647-9224-dbad7a9ca63d" />
 
-<img width="2560" height="1440" alt="screenshot-2026-04-08_00-33-12" src="https://github.com/user-attachments/assets/1463900d-18c2-45dc-9b0d-a53c7edca949" />
 
 
 #### Waybar
