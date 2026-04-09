@@ -71,11 +71,15 @@ child:selected .item-box {
   margin: 0px 0px 0px 0px; 
 }
 
-.item-subtext,
-label.description,
-label.dim-label,
-.description {
-    color: @text;
+.elephant-hint,
+.keybind-bind,
+.keybind-label {
+    border-radius: 8px; 
+    background-color: #b2fff3;
+    color: @base;
+    font-weight: bold;
     font-size: 12px;
-    line-height: 1;
+    padding: 2px 4px;
+    margin: 0 0 0 0;
+    line-height: 1em;
 }
