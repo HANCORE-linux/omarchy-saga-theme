@@ -14,8 +14,8 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-saga-theme.git
 
 
 #### VSCode
-- VSCode SAGAtheme follow the instruction by OldJobobo check [here](https://github.com/OldJobobo/saga-theme-dark?tab=readme-ov-file)
-- alternative VSCode theme for auto load included in theme
+- manually: VSCode SAGAtheme follow the instruction by OldJobobo check [here](https://github.com/OldJobobo/saga-theme-dark?tab=readme-ov-file)
+- automatically: alternative VSCode theme for auto load already included 
 
 #### Waybar
 [LINK](https://github.com/HANCORE-linux/waybar-themes)
