@@ -14,29 +14,29 @@ return {
 
 				-- Foreground colors
 				-- fg: Object properties, builtin types, builtin variables, member access, default text
-				fg = "#dce2f7",
+				fg = "#f6c8ff",
 				-- fg_dark: Inactive elements, statusline, secondary text
 				fg_dark = "#434549",
 				-- comment: Line highlight, gutter elements, disabled states
-				comment = "#6E6A64",
+				comment = "#696C76",
 
 				-- Accent colors
 				-- red: Errors, diagnostics, tags, deletions, breakpoints
-				red = "#ffd4e9",
+				red = "#ff9fbc",
 				-- orange: Constants, numbers, current line number, git modifications
-				orange = "#fbcbae",
+				orange = "#ffc79b",
 				-- yellow: Types, classes, constructors, warnings, numbers, booleans
-				yellow = "#fbebc8",
+				yellow = "#fff6c3",
 				-- green: Comments, strings, success states, git additions
-				green = "#f7ddff",
+				green = "#baf7b5",
 				-- cyan: Parameters, regex, preprocessor, hints, properties
-				cyan = "#c5edc1",
+				cyan = "#4cdab6",
 				-- blue: Functions, keywords, directories, links, info diagnostics
-				blue = "#c9fff7",
+				blue = "#b2fff3",
 				-- purple: Storage keywords, special keywords, identifiers, namespaces
-				purple = "#f8eae7",
+				purple = "#A3B8EF",
 				-- magenta: Function declarations, exception handling, tags
-				magenta = "#dcc3f9",
+				magenta = "#b572ef",
 			},
 		},
 		config = function(_, opts)
