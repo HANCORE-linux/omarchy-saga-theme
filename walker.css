@@ -10,7 +10,7 @@
 window .box-wrapper {
     background: alpha(@base, 1);           /* dark transparency */
     border: 2px solid alpha(@border, 1);    
-    border-radius: 7px;
+    border-radius: 9px;
     padding: 4px;
     margin: 0px 0px 0px 25px;
     box-shadow: 0 2px 12px alpha(black, 1);
@@ -20,7 +20,7 @@ window .box-wrapper {
 }
 
 window .search-container {
-    border-radius: 5px;
+    border-radius: 7px;
     padding: 6px 12px;
     margin: 0px 0px 0px 0px;
     background: alpha(#dfbaff, 1); 
@@ -48,7 +48,7 @@ window .search-container entry placeholder {
 
 window .preview {
     border: 0px solid alpha(@border, 0);
-    border-radius: 8px;
+    border-radius: 7px;
     background: alpha(@base, 0.5);
     color: @text;
     padding: 10px 10px 10px;
@@ -61,7 +61,7 @@ window .preview {
 /* --- Selection States --- */
 child:selected {
   background-color: alpha(@select, 1);
-  border-radius: 5px;
+  border-radius: 7px;
   
 }
 
