@@ -26,7 +26,7 @@ return {
 				-- orange: Constants, numbers, current line number, git modifications
 				orange = "#ffc79b",
 				-- yellow: Types, classes, constructors, warnings, numbers, booleans
-				yellow = "#fff6c3",
+				yellow = "#fffbbc",
 				-- green: Comments, strings, success states, git additions
 				green = "#baf7b5",
 				-- cyan: Parameters, regex, preprocessor, hints, properties
@@ -34,7 +34,7 @@ return {
 				-- blue: Functions, keywords, directories, links, info diagnostics
 				blue = "#b2fff3",
 				-- purple: Storage keywords, special keywords, identifiers, namespaces
-				purple = "#A3B8EF",
+				purple = "#9ab4f9",
 				-- magenta: Function declarations, exception handling, tags
 				magenta = "#b572ef",
 			},
