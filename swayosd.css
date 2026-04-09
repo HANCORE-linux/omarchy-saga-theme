@@ -19,7 +19,7 @@ window:backdrop {
 /* Draw a new background */
 window:not(:backdrop) #container,
 window:backdrop #container {
-    border: 2px solid @border-color;
+    border: 0px solid @border-color;
     border-radius: 6px;
     background-color: @background-color;
     padding: 12px;
