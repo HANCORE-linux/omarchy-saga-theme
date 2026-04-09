@@ -1,5 +1,5 @@
 # SAGA
-SAGA color scheme - Omarchy theme.
+[SAGA](https://github.com/SAGAtheme/SAGA) color scheme - Omarchy theme.
 
 # Installation
 
@@ -13,6 +13,9 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-saga-theme.git
 <img width="2560" height="1440" alt="screenshot-2026-04-08_15-48-27" src="https://github.com/user-attachments/assets/5be9e57c-51cc-4647-9224-dbad7a9ca63d" />
 
 
+#### VSCode
+- VSCode SAGAtheme follow the instruction by OldJobobo check [here](https://github.com/OldJobobo/saga-theme-dark?tab=readme-ov-file)
+- alternative VSCode theme for auto load included in theme
 
 #### Waybar
 [LINK](https://github.com/HANCORE-linux/waybar-themes)
