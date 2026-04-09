@@ -2,7 +2,7 @@
 @define-color border-color #a29da2;
 @define-color label #fff6ff;
 @define-color image #baf7b5;
-@define-color progress #fbebc8;
+@define-color progress #dfbaff;
 
 /* Cancel out Omarchy settings */
 window:not(:backdrop),
