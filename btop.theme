@@ -36,7 +36,7 @@ theme[net_box]="#ff9fbc"     # Pastel Magenta
 theme[proc_box]="#b2fff3"    # Celeste
 
 # Box divider line and small boxes line color
-theme[div_line]="#141719"
+theme[div_line]="#2a2d2f"
 
 # Temperature graph color (Soft pastel gradient)
 theme[temp_start]="#baf7b5"  # Menthol
