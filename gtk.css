@@ -15,7 +15,7 @@
     @define-color bright_blue    #b2fff3;
     @define-color bright_magenta #dfbaff;
     @define-color bright_cyan    #ffc79b;
-    @define-color bright_white   #fff6ff;
+    @define-color bright_white   #ffe1e1;
 
     @define-color accent_bg_color @blue;
     @define-color accent_fg_color @background;
