@@ -3,7 +3,7 @@ accent = "#b2fff3"
 cursor = "#b2fff3"
 
 # Primary colors
-foreground = "#ffe1e1"
+foreground = "#fff6ff"
 background = "#05080a"
 
 # Selection colors
@@ -28,4 +28,4 @@ color11 = "#fff6c3"
 color12 = "#b2fff3"
 color13 = "#dfbaff"
 color14 = "#ffc79b"
-color15 = "#fff6ff"
+color15 = "#ffe1e1"
