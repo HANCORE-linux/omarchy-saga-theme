@@ -86,8 +86,8 @@ child:selected {
 }
 
 child:selected .item-box {
-  padding: 2px 12px;
-color: @selected-text;
+background-color: @select;
+border-radius: 7px;
 }
 
 child:selected .item-title,
