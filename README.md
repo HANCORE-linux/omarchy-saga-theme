@@ -1,5 +1,5 @@
 # SAGA
-[SAGA](https://github.com/SAGAtheme/SAGA) color scheme - Omarchy theme.
+[SAGA](https://github.com/SAGAtheme/SAGA) by [SAGAthemecolor](https://github.com/SAGAthemecolor)
 
 # Installation
 
