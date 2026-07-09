@@ -1,0 +1,22 @@
+{
+  "name": "theme-saga",
+  "displayName": "Saga Theme",
+  "description": "Saga color theme",
+  "publisher": "local",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Saga",
+        "uiTheme": "vs-dark",
+        "path": "./themes/saga-color-theme.json"
+      }
+    ]
+  }
+}
