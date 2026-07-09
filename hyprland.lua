@@ -118,25 +118,3 @@ hl.animation({
   bezier = "emphasizedAccel",
   style = "slidevert",
 })
-
-hl.window_rule({
-  opacity = "1.0 override",
-  no_dim = true,
-  match = {
-    class = "^(vesktop|Vesktop)$",
-  },
-})
-hl.window_rule({
-  opacity = "1.0 override",
-  no_dim = true,
-  match = {
-    class = "^(code|VSCode|VSCodium)$",
-  },
-})
-hl.window_rule({
-  opacity = "1.0 override",
-  no_dim = true,
-  match = {
-    class = "^(chromium|Chromium|google-chrome|Brave|brave-browser)$",
-  },
-})
